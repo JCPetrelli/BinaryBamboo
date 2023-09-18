@@ -2,7 +2,7 @@
 
 ## About Us
 
-At Binary Bamboo, we specialize in crafting custom automation solutions and providing expert consultations to help small and medium-sized companies streamline their operations and achieve greater efficiency. Leveraging the power of modern technology, we help you transform your business processes to save time, reduce costs, and enhance productivity.
+At Binary Bamboo, we specialize in crafting custom automation solutions and providing expert consultations to help small and medium-sized companies streamline their operations and achieve greater efficiency. With a deep, technology agnostic expertise in solutions engineering, we guide businesses in harnessing the most suitable technologies to save time, reduce costs, and boost productivity.
 
 ## Services
 
