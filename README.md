@@ -17,7 +17,7 @@ Our team of experts is here to provide you with insights and advice on how to le
 #### Free 1-Hour Consultation
 Looking for guidance? We're offering a 1-hour consultation at no cost. No frills, just honest and straightforward advice.
 
-Book now: https://zcal.co/jcastellano/1hour-bamboo
+Book now: [1 Hour with Binary Bamboo (Free)](https://zcal.co/jcastellano/1hour-bamboo)
 
 
 ## Why Choose Us
