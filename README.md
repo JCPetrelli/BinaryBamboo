@@ -1,8 +1,8 @@
-# Welcome to Binary Bamboo
+# Welcome to Bamboo Flags
 
 ## About Us
 
-At Binary Bamboo, we specialize in crafting custom automation solutions and providing expert consultations to help small and medium-sized companies streamline their operations and achieve greater efficiency. With a deep, technology agnostic expertise in solutions engineering, we guide businesses in harnessing the most suitable technologies to save time, reduce costs, and boost productivity.
+At Bamboo Flags, we specialize in crafting custom automation solutions and providing expert consultations to help small and medium-sized companies streamline their operations and achieve greater efficiency. With a deep, technology agnostic expertise in solutions engineering, we guide businesses in harnessing the most suitable technologies to save time, reduce costs, and boost productivity.
 
 ## Services
 
@@ -17,7 +17,7 @@ Our team of experts is here to provide you with insights and advice on how to le
 #### Free 1-Hour Consultation
 Looking for guidance? We're offering a 1-hour consultation at no cost. No frills, just honest and straightforward advice.
 
-Book now: [1 Hour with Binary Bamboo (Free)](https://zcal.co/jcastellano/1hour-bamboo)
+Book now: [1 Hour with Bamboo Flags (Free)](https://zcal.co/jcastellano/1hour-bamboo)
 
 
 ## Why Choose Us
@@ -51,7 +51,7 @@ Stay connected with us through our social media channels:
 
 Hear what our clients have to say about working with us:
 
-> "The team at Binary Bamboo helped us streamline our processes, saving us both time and money." - Sparrow&Snow
+> "The team at Bamboo Flags helped us streamline our processes, saving us both time and money." - Sparrow&Snow
 
 > "Their expertise in automation is unmatched. We couldn't be happier with the results." - Panino Films 
 
@@ -65,4 +65,4 @@ Join our team and be a part of a company that is revolutionizing the industry. [
 
 ---
 
-© 2023 Binary Bamboo. All Rights Reserved.
+© 2023 Bamboo Flags. All Rights Reserved.
